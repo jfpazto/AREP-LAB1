@@ -1,4 +1,4 @@
-# LABORATORIO 1
+# LABORATORIO 1 📚
 
 ## INTRODUCCIÓN
 
@@ -28,7 +28,7 @@ Para poder compilar correctamente el programa y ver su ejecucion es necesario te
 * [Eclipse](https://www.eclipse.org/ide/)
 
 
-## Instalación
+## Instalación ✅
 ### 1.Clonar el repositorio, una vez creada la carpeta en la que se va a trabajar el proyecto con el siguiente comando se clona el repositorio
 
 ```BASH
@@ -37,7 +37,7 @@ git clone https://github.com/jfpazto/AREP-LAB1.git
 
 ```
 
-## Compilar 
+## Compilar ✅
 ### 1. Abrimos el respectivo shell del sistema operativo que se este usando e introducimos lo siguiente, para que se compile y creen las instancias del proyecto correctamente 
 
 ```JAVA
@@ -45,8 +45,11 @@ git clone https://github.com/jfpazto/AREP-LAB1.git
 mvn package
 
 ```
+Tendra que arrojar algo de este estilo:
 
-## Pruebas
+![](https://github.com/jfpazto/AREP-LAB1/blob/master/img/package.PNG)
+
+## Pruebas 📜
 
 Para poder ver la ejecucion de la pruebas implementadas en el proyecto, nos ubicamos dentro de la carpeta donde esta ubicado el proyecto y el **pom.xml** e indroducimos el siguiente comando para ejecutar las pruebas
 
@@ -55,12 +58,15 @@ Para poder ver la ejecucion de la pruebas implementadas en el proyecto, nos ubic
 mvn test
 
 ```
+Verificamos que las pruebas se ejecuten correctamente
 
-## Autor
+![](https://github.com/jfpazto/AREP-LAB1/blob/master/img/Test.PNG)
+
+## Autor 📌
 [Jonathan Fabian Paez Torres](https://github.com/jfpazto)
-## Licencia & Derechos de Autor
-**©** Jonathan Fabian Paez Torres, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
+## Licencia & Derechos de Autor 🔓
+**©** Jonathan Fabian Paez Torres.
 
-Licencia bajo la [GNU General Public License](https://github.com/Skullzo/AREP-Lab1/blob/main/LICENSE).
+Licencia bajo la [GNU General Public License](https://github.com/jfpazto/AREP-LAB1/blob/master/LICENSE.txt).
 
 
