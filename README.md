@@ -11,9 +11,9 @@ de una estructura de datos LinkedList.
 ## Rerrequisitos
 
 Para poder compilar correctamente el programa y ver su ejecucion es necesario tener instalado los siguientes programas:
-* [JAVA]: (https://www.java.com/es/download/ie_manual.jsp)
-* [Maven]:(https://maven.apache.org/)
-* [GIT]:(https://git-scm.com/)
+* [JAVA](https://www.java.com/es/download/ie_manual.jsp)
+* [Maven](https://maven.apache.org/)
+* [GIT](https://git-scm.com/)
 
 ## Construido con
 * [Maven](https://maven.apache.org/)
