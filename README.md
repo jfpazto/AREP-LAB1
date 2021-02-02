@@ -8,7 +8,7 @@ desviación estándar, para leer los datos es necesario desarrollar una implemen
 de una estructura de datos LinkedList.
 
 
-## Rerrequisitos
+## Prerrequisitos
 
 Para poder compilar correctamente el programa y ver su ejecucion es necesario tener instalado los siguientes programas:
 * [JAVA](https://www.java.com/es/download/ie_manual.jsp)
